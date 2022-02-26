@@ -1,0 +1,19 @@
+/* Vaiáveis */
+
+:root {
+    --background: #000;
+    --fonte: #FFF;
+}
+
+/* CSS Reset */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--background);
+    color: var(--fonte);
+}
